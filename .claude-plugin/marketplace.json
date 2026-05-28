@@ -1,0 +1,26 @@
+{
+  "name": "coltondyck",
+  "owner": {
+    "name": "ColtonDyck"
+  },
+  "plugins": [
+    {
+      "name": "vibe-cognition",
+      "description": "Project knowledge graph — captures decisions, failures, discoveries, patterns, and reasoning chains. Fully local, no API keys.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Haagndaazer/vibe-cognition.git",
+        "sha": "811350d19cf0ec9ebfedb4bf8a033f5eb9365130"
+      }
+    },
+    {
+      "name": "teammate-comms",
+      "description": "Agent-to-agent messaging + channel idle-wake for full Claude Code instances.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Haagndaazer/teammate-comms.git",
+        "sha": "058e219c23c6c8c81749a6e10b37052bd75d60d3"
+      }
+    }
+  ]
+}
