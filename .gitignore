@@ -1,0 +1,3 @@
+# Vibe Cognition vector store — regenerable, rebuilt by replaying the journal.
+# The journal itself (.cognition/journal.jsonl) is the source-of-truth memory and IS committed.
+.cognition/chromadb/
