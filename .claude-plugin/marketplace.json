@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "vibe-cognition",
-      "description": "Project knowledge graph — captures decisions, failures, discoveries, patterns, and reasoning chains. Fully local, no API keys.",
+      "description": "Project knowledge graph \u2014 captures decisions, failures, discoveries, patterns, and reasoning chains. Fully local, no API keys.",
       "source": {
         "source": "url",
         "url": "https://github.com/Haagndaazer/vibe-cognition.git",
@@ -19,7 +19,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Haagndaazer/teammate-comms.git",
-        "sha": "424b501b03e8b1e4a3a7fdb4d437e6cfb34193ff"
+        "sha": "686c869466286871a425e50662bf9a549c4133f0"
       }
     }
   ]
