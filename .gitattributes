@@ -1,0 +1,2 @@
+# vibe-cognition: append-only journal union-merge (safe to remove)
+.cognition/journal.jsonl merge=union

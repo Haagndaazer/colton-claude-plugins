@@ -1,0 +1,5 @@
+# vibe-cognition managed - do not remove
+chromadb/
+.git-hygiene-managed
+*.lock
+.last-rehydrate.json

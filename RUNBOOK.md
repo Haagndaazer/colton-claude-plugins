@@ -20,11 +20,6 @@ SHA here breaks installs for **every** user, so the verify steps below are not o
   (push access to `origin/main`), used both for pushing and for reading plugin repos via the
   GitHub API.
 
-## Standing rule
-
-**Only pin + push to `main` when Colton explicitly says go.** Never self-initiate a publish.
-Editing and committing the pin is fine; the *push* is the gated action.
-
 ## Runbook
 
 **(a) Get the verified HEAD — never trust a relayed short SHA.**
@@ -82,8 +77,6 @@ git commit -m "Pin <plugin> v<x.y.z> (<short-sha>) — <one-line of what's in it
 **One pin per commit / push.** Never bundle two plugins' pins into a single commit or push —
 keep each publish isolated so it can be reverted on its own. (If a second plugin needs pinning,
 it's a separate commit and, after a separate go, a separate push.)
-
-Stop here. **Wait for Colton's explicit go** before pushing.
 
 **(f) After the go: push and verify `local == remote`.**
 

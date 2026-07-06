@@ -1,0 +1,10 @@
+{
+  "batch_nodes": ["33a2f90c4866", "f6bd4e185ee2"],
+  "context": {
+    "pin_version": "v0.13.0",
+    "auto_journal_id": "33a2f90c4866",
+    "loki_episode_id": "f6bd4e185ee2",
+    "prior_version_auto_journal": "09b799d6bf37",
+    "decision_node": "da6a7feb1b08"
+  }
+}
