@@ -1,0 +1,12 @@
+{
+  "name": "coltondyck",
+  "interface": { "displayName": "Colton's plugins" },
+  "plugins": [
+    {
+      "name": "vibe-cognition",
+      "source": { "source": "url", "url": "https://github.com/Haagndaazer/vibe-cognition", "sha": "5b58b07e69cad9e64643b165be623c17b787071d" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Other"
+    }
+  ]
+}
