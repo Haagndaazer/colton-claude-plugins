@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "vibe-cognition",
-      "source": { "source": "url", "url": "https://github.com/Haagndaazer/vibe-cognition", "sha": "0c8da9262b7f96d3c71c3d8e713f38795914fa04"},
+      "source": { "source": "url", "url": "https://github.com/Haagndaazer/vibe-cognition", "sha": "96ed17ab5140351b2e165a19eb2684899d3e4872"},
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
       "category": "Other"
     }
